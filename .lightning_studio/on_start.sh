@@ -11,3 +11,5 @@
 #
 # Example: streamlit run my_app.py
 # Example: gradio my_app.py
+
+docker load -i ./docker-images/image_name.tar
